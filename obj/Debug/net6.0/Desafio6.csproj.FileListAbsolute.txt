@@ -1,0 +1,15 @@
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\Desafio6.exe
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\Desafio6.deps.json
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\Desafio6.runtimeconfig.json
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\Desafio6.dll
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\ref\Desafio6.dll
+C:\ProjetosDIO\Desafio6\bin\Debug\net6.0\Desafio6.pdb
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.csproj.AssemblyReference.cache
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.AssemblyInfoInputs.cache
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.AssemblyInfo.cs
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.csproj.CoreCompileInputs.cache
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.dll
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\ref\Desafio6.dll
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.pdb
+C:\ProjetosDIO\Desafio6\obj\Debug\net6.0\Desafio6.genruntimeconfig.cache
